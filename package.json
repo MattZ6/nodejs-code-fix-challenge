@@ -1,8 +1,16 @@
 {
-  "name": "c03",
+  "private": true,
+  "name": "nodejs-code-fix-challenge",
+  "description": "NodeJS code fix challenge for Ignite Bootcamp",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "url": "https://github.com/MattZ6"
+  },
+  "repository": "https://github.com/MattZ6/nodejs-code-fix-challenge",
+  "bugs": "https://github.com/MattZ6/nodejs-code-fix-challenge/issues",
   "scripts": {
     "dev": "nodemon",
     "test": "jest"
