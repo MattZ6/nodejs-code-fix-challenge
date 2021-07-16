@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nodejs-code-fix-challenge",
-  "description": "NodeJS code fix challenge for Ignite Bootcamp",
+  "description": "🔥 Desafio de refatoração construído na trilha de NodeJS — Ignite",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
